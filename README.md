@@ -56,4 +56,4 @@ where `r` is the distance to the Sun. Velocity is updated first, then position (
 
 ## License
 
-Released under the MIT License. See [LICENSE](LICENSE).
+Copyright (c) 2026 dhergham-fadhil. All rights reserved. See [LICENSE](LICENSE).
